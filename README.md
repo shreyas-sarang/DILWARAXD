@@ -27,7 +27,7 @@
 </br>
 </br>
 
-  <a href="#">
+  <a href="https://github.com/shreyas-sarang/QUAD/blob/main/README.md">
     <img src="https://img.shields.io/badge/🔥QUAD🔥-black?style=for-the-badge&logo=car&logoColor=white"/>
   </a>
 </div>
