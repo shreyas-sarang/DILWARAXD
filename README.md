@@ -10,10 +10,14 @@
   <a href="#">
     <img src="https://img.shields.io/badge/POOJA-black?style=for-the-badge&logo=danger&logoColor=white"/>
   </a>
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  
   
   <a href="#">
     <img src="https://img.shields.io/badge/RADHIKA-black?style=for-the-badge&logo=car&logoColor=white"/>
   </a>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  
   
   <a href="#">
     <img src="https://img.shields.io/badge/SHREYAS-black?style=for-the-badge&logo=car&logoColor=white"/>
