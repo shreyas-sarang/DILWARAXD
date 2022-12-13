@@ -3,4 +3,4 @@
 ## IO - 44
 ## FF - 8
 ## BUFG - 1
-<img width="455" alt="DEALY_AND_ADD" src="https://user-images.githubusercontent.com/114016685/207399270-36ec9502-8292-437b-bb32-2209c1b43779.png">
+<img width="493" alt="DELAY_ND_ADD" src="https://user-images.githubusercontent.com/114016685/207399758-70d83fe5-cda0-4720-8e0b-c085d5a4e151.png">
