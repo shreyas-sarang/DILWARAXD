@@ -1,0 +1,3 @@
+# TWO BIT ADDER
+## LUT- 8
+## IO - 24
