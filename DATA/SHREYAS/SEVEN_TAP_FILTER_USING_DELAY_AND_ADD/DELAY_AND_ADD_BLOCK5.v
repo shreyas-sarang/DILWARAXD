@@ -18,7 +18,7 @@
 
 `timescale 1 ns / 1 ns
 
-module DELAY_AND_ADD_BLOCK5
+(* use_dsp48 = "yes" *)module DELAY_AND_ADD_BLOCK5
           (clk,
            reset,
            enb,
