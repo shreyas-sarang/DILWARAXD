@@ -18,7 +18,7 @@
 
 `timescale 1 ns / 1 ns
 
-module MUL
+(* use_dsp48 = "yes" *)module MUL
           (X,
            h,
            Y);
