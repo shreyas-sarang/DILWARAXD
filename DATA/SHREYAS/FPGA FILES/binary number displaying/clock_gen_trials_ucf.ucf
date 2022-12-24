@@ -1,0 +1,6 @@
+NET "clk"                  LOC = V10     | IOSTANDARD = LVCMOS33 | PERIOD = 100MHz ;
+NET "num[3]"                     LOC = P15     | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST ;  #D
+NET "num[2]"                     LOC = P16     | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST ;  #D2
+NET "num[1]"                     LOC = N15     | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST ;  #D3
+NET "num[0]"                     LOC = N16     | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST ;  #D4
+NET "new_clk"                     LOC = T18     | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST ;  #D8
